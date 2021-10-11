@@ -1,0 +1,916 @@
+1633894989335	geckodriver	INFO	Listening on 127.0.0.1:52563
+1633894990346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilebMQzbZ"
+1633894991100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilebMQzbZ\\search.json.mozlz4", (void 0)))
+1633894993889	Marionette	INFO	Listening on port 52569
+1633894994042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1633895128273	Marionette	INFO	Stopped listening on port 52569
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633895133686	geckodriver	INFO	Listening on 127.0.0.1:58677
+1633895134698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileFoa2zx"
+1633895135261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileFoa2zx\\search.json.mozlz4", (void 0)))
+1633895137802	Marionette	INFO	Listening on port 58683
+1633895137877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://help.twitter.com/etc/clientlibs/dtm/help-twitter/c411b4930511/4121f48d5646/launch-aa3ff817aa50.min.js.twhash.a.f.5921fb87923ecf356aafc4337d1c713b.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://help.twitter.com/etc/clientlibs/dtm/help-twitter/c411b4930511/4121f48d5646/launch-aa3ff817aa50.min.js.twhash.a.f.5921fb87923ecf356aafc4337d1c713b.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633896202278	Marionette	INFO	Stopped listening on port 58683
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633896206436	geckodriver	INFO	Listening on 127.0.0.1:62727
+1633896207452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileHRNEUi"
+1633896207857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileHRNEUi\\search.json.mozlz4", (void 0)))
+1633896210235	Marionette	INFO	Listening on port 62733
+1633896210660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633897304180	geckodriver	INFO	Listening on 127.0.0.1:61927
+1633897305204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile6lKX4O"
+1633897305535	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile6lKX4O\\search.json.mozlz4", (void 0)))
+1633897307703	Marionette	INFO	Listening on port 61934
+1633897307880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633897413000	Marionette	INFO	Stopped listening on port 61934
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633897417675	geckodriver	INFO	Listening on 127.0.0.1:53435
+1633897418685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilepaOAZz"
+1633897419007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilepaOAZz\\search.json.mozlz4", (void 0)))
+1633897421213	Marionette	INFO	Listening on port 53445
+1633897421392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:450:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1633897892230	Marionette	INFO	Stopped listening on port 53445
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633897893904	geckodriver	INFO	Listening on 127.0.0.1:63771
+1633897894925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilerMyTRy"
+1633897895232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilerMyTRy\\search.json.mozlz4", (void 0)))
+1633897897230	Marionette	INFO	Listening on port 63777
+1633897897591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633898128771	Marionette	INFO	Stopped listening on port 63777
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633898130189	Marionette	INFO	Stopped listening on port 62733
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633898133550	geckodriver	INFO	Listening on 127.0.0.1:53755
+1633898134558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileLQkZzV"
+1633898134886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileLQkZzV\\search.json.mozlz4", (void 0)))
+1633898137381	Marionette	INFO	Listening on port 53761
+1633898137727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633898162772	Marionette	INFO	Stopped listening on port 53761
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633898236234	geckodriver	INFO	Listening on 127.0.0.1:56654
+1633898237251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileU9W6JA"
+1633898237619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileU9W6JA\\search.json.mozlz4", (void 0)))
+1633898239886	Marionette	INFO	Listening on port 56660
+1633898239935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633898352093	Marionette	INFO	Stopped listening on port 56660
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633898354484	geckodriver	INFO	Listening on 127.0.0.1:55183
+1633898355495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileG9kSis"
+1633898355822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileG9kSis\\search.json.mozlz4", (void 0)))
+1633898358081	Marionette	INFO	Listening on port 55189
+1633898358153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633898451249	geckodriver	INFO	Listening on 127.0.0.1:65347
+1633898452271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileoUcV58"
+1633898452596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileoUcV58\\search.json.mozlz4", (void 0)))
+1633898454887	Marionette	INFO	Listening on port 65353
+1633898454955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633898471138	geckodriver	INFO	Listening on 127.0.0.1:54011
+1633898472159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiledivFtp"
+1633898472520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiledivFtp\\search.json.mozlz4", (void 0)))
+1633898474607	Marionette	INFO	Listening on port 54017
+1633898474847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633898517890	geckodriver	INFO	Listening on 127.0.0.1:54098
+1633898518911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileWQ398I"
+1633898519232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileWQ398I\\search.json.mozlz4", (void 0)))
+1633898521366	Marionette	INFO	Listening on port 54104
+1633898521562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633898568805	Marionette	INFO	Stopped listening on port 54104
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633898569662	Marionette	INFO	Stopped listening on port 54017
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633898570953	Marionette	INFO	Stopped listening on port 65353
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Child 19568, MediaDecoderStateMachine #1] WARNING: 1d1fa22f820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633899385471	geckodriver	INFO	Listening on 127.0.0.1:65082
+1633899386488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileBSKPRm"
+1633899386812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileBSKPRm\\search.json.mozlz4", (void 0)))
+1633899388806	Marionette	INFO	Listening on port 65089
+1633899389148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633899776537	Marionette	INFO	Stopped listening on port 65089
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.ae8116d5.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://developer.twitter.com/etc/clientlibs/dtm/developer-twitter/c411b4930511/eb5ca470897a/launch-c9524692def8.min.js.twhash.a.f.24cd1fef7299f4b515734766f5f22e84.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://developer.twitter.com/etc/clientlibs/dtm/developer-twitter/c411b4930511/eb5ca470897a/launch-c9524692def8.min.js.twhash.a.f.24cd1fef7299f4b515734766f5f22e84.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://developer.twitter.com/etc/clientlibs/dtm/developer-twitter/c411b4930511/eb5ca470897a/launch-c9524692def8.min.js.twhash.a.f.24cd1fef7299f4b515734766f5f22e84.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b6efd2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b3770740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd91d200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c46660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c46660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1bea660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd91d580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b69aac80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b69aac80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b69e5c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd22bba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd22b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b3fdb120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b6917ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2eefd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2eef820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2f7a580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b38f62e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b38f6660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, AudioIPC0] WARNING: 160b38f6660 StateCallback() state 1 cubeb error: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:669
+[Child 15740, MediaDecoderStateMachine #1] WARNING: Decoder=160b625e400 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3980
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b6817ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.ae8116d5.js, line 1: Error: ApiError: https://api.twitter.com/1.1/help/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a399e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a399e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1abe200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1bea900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1bea900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1abe200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1abe200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1deaba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284aac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1deaba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284aac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1deaba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2e843c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c46820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2da6ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2da6ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c46820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c46820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2ceed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c46820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2da6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2da6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2da6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2da6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b284a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2da6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2da6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b62e3c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab73c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab73c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9f9c120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9f9c120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bcc59ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b6913820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bcc59900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b6913820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bcc59820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b6913820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bcc59820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bcc59660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bcc59900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bcc59740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bcce3660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bcc59900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1ab7200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd129c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bb2f3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd129820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd129820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd129d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd129820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bd129820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccbaba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160bccba740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b1a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b1a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b1a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b1a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b1a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b9b07740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a39740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1b4b580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a399e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1b4b580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a399e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1b4b580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a399e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a399e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a399e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1a399e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1b4b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1b4b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1b4b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1b4b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2859900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1b4b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1b4b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2859900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2859900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2c469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b28fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b2859900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b418c580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b69aa4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b692dc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160a99ac4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160a9904660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160a9904660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160a9904660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160a9904660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160a9904660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b1abeac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15740, MediaDecoderStateMachine #1] WARNING: 160b62e3200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1633953143864	Marionette	INFO	Stopped listening on port 55189
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633968829314	geckodriver	INFO	Listening on 127.0.0.1:51949
+1633968830325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiletAmHAv"
+1633968878973	geckodriver	INFO	Listening on 127.0.0.1:54376
+1633968879984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileMmb9qV"
+1633968880458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileMmb9qV\\search.json.mozlz4", (void 0)))
+1633968883232	Marionette	INFO	Listening on port 54382
+1633968883679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633968947670	geckodriver	INFO	Listening on 127.0.0.1:57567
+1633968948682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilePtQCVo"
+1633968949075	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilePtQCVo\\search.json.mozlz4", (void 0)))
+1633968951800	Marionette	INFO	Listening on port 57574
+1633968951952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633968983164	Marionette	INFO	Stopped listening on port 57574
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633968986089	geckodriver	INFO	Listening on 127.0.0.1:57649
+1633968987106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileSoMF8I"
+1633968987584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileSoMF8I\\search.json.mozlz4", (void 0)))
+1633968989873	Marionette	INFO	Listening on port 57655
+1633968990296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633969010301	Marionette	INFO	Stopped listening on port 54382
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633969173904	geckodriver	INFO	Listening on 127.0.0.1:50014
+1633969174916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileseMEYg"
+1633969175310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileseMEYg\\search.json.mozlz4", (void 0)))
+1633969177716	Marionette	INFO	Listening on port 50020
+1633969178134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633969896703	geckodriver	INFO	Listening on 127.0.0.1:55614
+1633969897715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiletjOc6L"
+1633969898047	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiletjOc6L\\search.json.mozlz4", (void 0)))
+1633969900739	Marionette	INFO	Listening on port 55622
+1633969900919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+1633969971001	Marionette	INFO	Stopped listening on port 55622
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633969974834	geckodriver	INFO	Listening on 127.0.0.1:59706
+1633969975846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileaTCyyR"
+1633969976224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileaTCyyR\\search.json.mozlz4", (void 0)))
+1633969978801	Marionette	INFO	Listening on port 59712
+1633969979030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+1633970037273	geckodriver	INFO	Listening on 127.0.0.1:57554
+1633970038279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileJs74FH"
+1633970038691	Marionette	INFO	Marionette enabled
+1633970039779	Marionette	INFO	Stopped listening on port 59712
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileJs74FH\\search.json.mozlz4", (void 0)))
+1633970041426	Marionette	INFO	Listening on port 57562
+1633970041482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633970069676	Marionette	INFO	Stopped listening on port 50020
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1633970225260	Marionette	INFO	Stopped listening on port 57562
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633970230538	geckodriver	INFO	Listening on 127.0.0.1:59344
+1633970231550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilejvUjKO"
+1633970231906	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilejvUjKO\\search.json.mozlz4", (void 0)))
+1633970234480	Marionette	INFO	Listening on port 59350
+1633970234751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633970308493	geckodriver	INFO	Listening on 127.0.0.1:51858
+1633970309505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilejRcaVQ"
+1633970309843	Marionette	INFO	Marionette enabled
+1633970311438	Marionette	INFO	Stopped listening on port 59350
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilejRcaVQ\\search.json.mozlz4", (void 0)))
+1633970312523	Marionette	INFO	Listening on port 51864
+1633970312688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633970465406	Marionette	INFO	Stopped listening on port 51864
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633970467501	geckodriver	INFO	Listening on 127.0.0.1:64472
+1633970468513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilemQiZZj"
+1633970468848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilemQiZZj\\search.json.mozlz4", (void 0)))
+1633970471061	Marionette	INFO	Listening on port 64478
+1633970471187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633970549852	Marionette	INFO	Stopped listening on port 64478
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633970551973	geckodriver	INFO	Listening on 127.0.0.1:64554
+1633970552981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiletovtcE"
+1633970553361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiletovtcE\\search.json.mozlz4", (void 0)))
+1633970555346	Marionette	INFO	Listening on port 64561
+1633970555649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=20221eee400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=20221eee400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3541
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450948/pagestyle24 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 63ms)
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633971502880	geckodriver	INFO	Listening on 127.0.0.1:53208
+1633971503892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileVvXgcf"
+1633971504308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileVvXgcf\\search.json.mozlz4", (void 0)))
+1633971506929	Marionette	INFO	Listening on port 53215
+1633971507058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633971665834	geckodriver	INFO	Listening on 127.0.0.1:50081
+1633971666845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileU6lYX3"
+1633971667227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileU6lYX3\\search.json.mozlz4", (void 0)))
+1633971669363	Marionette	INFO	Listening on port 50087
+1633971669523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633971671461	Marionette	INFO	Stopped listening on port 53215
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Child 16536, MediaDecoderStateMachine #1] WARNING: 2e37ee07740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633972387290	geckodriver	INFO	Listening on 127.0.0.1:56395
+1633972388304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileTj1ao4"
+1633972388675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileTj1ao4\\search.json.mozlz4", (void 0)))
+1633972391804	Marionette	INFO	Listening on port 56401
+1633972391994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633972470106	Marionette	INFO	Stopped listening on port 56401
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633972476013	geckodriver	INFO	Listening on 127.0.0.1:52194
+1633972477021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileTwiupy"
+1633972477483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileTwiupy\\search.json.mozlz4", (void 0)))
+1633972480133	Marionette	INFO	Listening on port 52200
+1633972480206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633972480493	Marionette	INFO	Stopped listening on port 50087
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633972639168	Marionette	INFO	Stopped listening on port 52200
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633972652119	geckodriver	INFO	Listening on 127.0.0.1:59321
+1633972653134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile7Ygzgu"
+1633972653633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile7Ygzgu\\search.json.mozlz4", (void 0)))
+1633972656274	Marionette	INFO	Listening on port 59328
+1633972656329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1633972798242	Marionette	INFO	Stopped listening on port 59328
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633972800141	geckodriver	INFO	Listening on 127.0.0.1:49240
+1633972801153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile44iQLs"
+1633972801511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile44iQLs\\search.json.mozlz4", (void 0)))
+1633972804342	Marionette	INFO	Listening on port 49246
+1633972804835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633972860816	geckodriver	INFO	Listening on 127.0.0.1:49329
+1633972861838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiletrboLe"
+1633972862213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiletrboLe\\search.json.mozlz4", (void 0)))
+1633972864141	Marionette	INFO	Stopped listening on port 49246
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633972864800	Marionette	INFO	Listening on port 49335
+1633972865031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633973024203	geckodriver	INFO	Listening on 127.0.0.1:53913
+1633973024235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile3dqkhU"
+1633973024617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile3dqkhU\\search.json.mozlz4", (void 0)))
+1633973027530	Marionette	INFO	Listening on port 53918
+1633973027937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633973029510	Marionette	INFO	Stopped listening on port 49335
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633973143012	geckodriver	INFO	Listening on 127.0.0.1:54006
+1633973144023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileIayZP8"
+1633973144378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileIayZP8\\search.json.mozlz4", (void 0)))
+1633973146675	Marionette	INFO	Listening on port 54012
+1633973146717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633973150250	Marionette	INFO	Stopped listening on port 53918
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Child 18792, MediaDecoderStateMachine #1] WARNING: 25c30f18c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1633973210514	Marionette	INFO	Stopped listening on port 54012
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633973520239	Marionette	INFO	Stopped listening on port 57655
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633973661369	geckodriver	INFO	Listening on 127.0.0.1:50753
+1633973662379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile9KPeax"
+1633973662740	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile9KPeax\\search.json.mozlz4", (void 0)))
+1633973666223	Marionette	INFO	Listening on port 50759
+1633973666577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633973889302	geckodriver	INFO	Listening on 127.0.0.1:58307
+1633973890314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile0VYGxU"
+1633973890634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile0VYGxU\\search.json.mozlz4", (void 0)))
+1633973892838	Marionette	INFO	Listening on port 58313
+1633973892993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633973896370	Marionette	INFO	Stopped listening on port 50759
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 4152, MediaDecoderStateMachine #1] WARNING: 211c8af4040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450946/pagestyle24 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1633974774400	Marionette	INFO	Stopped listening on port 58313
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633974778812	geckodriver	INFO	Listening on 127.0.0.1:65445
+1633974779826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilexAJg1E"
+1633974780210	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilexAJg1E\\search.json.mozlz4", (void 0)))
+1633974783093	Marionette	INFO	Listening on port 65451
+1633974783543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.fd25d125.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-403 codes:[353] trace_ids:[null]
+1633974863585	geckodriver	INFO	Listening on 127.0.0.1:49161
+1633974864598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileiYq47U"
+1633974864940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileiYq47U\\search.json.mozlz4", (void 0)))
+1633974867240	Marionette	INFO	Listening on port 49167
+1633974867271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1633974872576	Marionette	INFO	Stopped listening on port 65451
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 17740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633974938421	Marionette	INFO	Stopped listening on port 49167
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633974942760	geckodriver	INFO	Listening on 127.0.0.1:64963
+1633974943772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile8A91dZ"
+1633974944161	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile8A91dZ\\search.json.mozlz4", (void 0)))
+1633974946682	Marionette	INFO	Listening on port 64969
+1633974946943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633975151439	geckodriver	INFO	Listening on 127.0.0.1:60556
+1633975152452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile8KmPJ0"
+1633975152802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile8KmPJ0\\search.json.mozlz4", (void 0)))
+1633975155393	Marionette	INFO	Listening on port 60562
+1633975155630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633975160148	Marionette	INFO	Stopped listening on port 60562
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633975174340	geckodriver	INFO	Listening on 127.0.0.1:60626
+1633975175353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilelrNKX3"
+1633975175753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilelrNKX3\\search.json.mozlz4", (void 0)))
+1633975178296	Marionette	INFO	Listening on port 60632
+1633975182295	Marionette	INFO	Stopped listening on port 60632
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633975186866	geckodriver	INFO	Listening on 127.0.0.1:60680
+1633975187879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileoYcI9w"
+1633975188266	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileoYcI9w\\search.json.mozlz4", (void 0)))
+1633975190699	Marionette	INFO	Listening on port 60686
+1633975191039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633975303480	geckodriver	INFO	Listening on 127.0.0.1:60781
+1633975304494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileZJrGWI"
+1633975304840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileZJrGWI\\search.json.mozlz4", (void 0)))
+1633975307231	Marionette	INFO	Listening on port 60789
+1633975307711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633975310830	Marionette	INFO	Stopped listening on port 60686
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633975573259	geckodriver	INFO	Listening on 127.0.0.1:54381
+1633975574273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilewvZ8ty"
+1633975574619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilewvZ8ty\\search.json.mozlz4", (void 0)))
+1633975577096	Marionette	INFO	Listening on port 54387
+1633975577451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633975577917	Marionette	INFO	Stopped listening on port 60789
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633975600797	Marionette	INFO	Stopped listening on port 54387
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633975603496	geckodriver	INFO	Listening on 127.0.0.1:54455
+1633975604508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileO6SlRP"
+1633975604863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileO6SlRP\\search.json.mozlz4", (void 0)))
+1633975607253	Marionette	INFO	Listening on port 54461
+1633975607678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633975706088	geckodriver	INFO	Listening on 127.0.0.1:51272
+1633975707104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile47OmJd"
+1633975707434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile47OmJd\\search.json.mozlz4", (void 0)))
+1633975709816	Marionette	INFO	Listening on port 51279
+1633975710299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633975712546	Marionette	INFO	Stopped listening on port 54461
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633977047125	Marionette	INFO	Stopped listening on port 51279
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633977047945	Marionette	INFO	Stopped listening on port 64969
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633977048730	Marionette	INFO	Stopped listening on port 64561
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633977063256	geckodriver	INFO	Listening on 127.0.0.1:51408
+1633977064269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiledmjKLb"
+1633977064688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiledmjKLb\\search.json.mozlz4", (void 0)))
+1633977068223	Marionette	INFO	Listening on port 51414
+1633977068418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633977079038	geckodriver	INFO	Listening on 127.0.0.1:51477
+1633977080058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileQLkmgt"
+1633977080464	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileQLkmgt\\search.json.mozlz4", (void 0)))
+1633977082945	Marionette	INFO	Listening on port 51483
+1633977083233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633977104459	Marionette	INFO	Stopped listening on port 51483
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633977105502	Marionette	INFO	Stopped listening on port 51414
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633977110470	geckodriver	INFO	Listening on 127.0.0.1:51548
+1633977111494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilehunIiN"
+1633977111935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilehunIiN\\search.json.mozlz4", (void 0)))
+1633977114859	Marionette	INFO	Listening on port 51554
+1633977115133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.fd25d125.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-403 codes:[353] trace_ids:[null]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

@@ -1,0 +1,37 @@
+,id,retweet_count,quoted_status_id_str,favorite_count,text,quoted_status_id,id_str,lang,source_url,source,user,author
+0,1447411650991173632,7,,35,"🐍 The Real Python Podcast 🎧 — Sentiment Analysis, Fourier Transforms, and More Python Data Science https://t.co/0ocG9BmL7Q",,1447411650991173632,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+1,1447396557842702339,6,,18,logparser: Command Line Parser for Common Log Format #python https://t.co/vfhoQTUfJ3,,1447396557842702339,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+2,1447381454867116039,3,,14,"🐍📺 Pass by Reference in Python: Best Practices [Video]
+#python https://t.co/o8LkmGGsoL",,1447381454867116039,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+3,1447371374083858437,3,1446071540886478853,0,"RT @pybites: October #Hacktoberfest - what #opensource projects are you going to contribute to? 
+
+Here is a walkthrough video we just added…",1.4460715408864788e+18,1447371374083858437,en,https://buffer.com,Buffer,realpython,realpython
+4,1447366382258204672,5,,22,🐍📺 Python Lambda Functions: Introduction [Video] https://t.co/r5l1WvIMMc,,1447366382258204672,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+5,1447343691371253760,13,,0,"RT @realpython: 🐍 Python Conditional Statements Quiz ❓ — Test your understanding of Python conditional statements.
+#python https://t.co/PME…",,1447343691371253760,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+6,1447328592959086594,18,,0,"RT @realpython: 🐍📰 User Authentication With Angular 4 and Flask 
+
+Here we look at how to handle user authentication using JSON Web Tokens w…",,1447328592959086594,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+7,1447298407509512194,11,,31,"🐍 PyCharm for Productive Python Development (Guide) — https://t.co/U4ntrcx6wl 
+#python https://t.co/Vq9aIq8zkK",,1447298407509512194,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+8,1447286815090790404,17,,0,"RT @testdrivenio: Sessions in Flask 
+
+https://t.co/SIQnBR2dtn 
+
+Shows how sessions work in Flask and looks at an example of storing a user'…",,1447286815090790404,en,https://buffer.com,Buffer,realpython,realpython
+9,1447283296308768774,5,,15,porth: It's Like Forth but in Python #python https://t.co/F6DheVbjF6,,1447283296308768774,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+10,1447260685063311360,2,,18,🐍📺 Getting a Directory Listing [Video] https://t.co/4HBFazN2Ox,,1447260685063311360,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+11,1447253093398294530,5,,18,"🐍📰 In this step-by-step tutorial, you'll learn about Python's deque and how to use it to perform efficient pop and… https://t.co/djuU0Bj9ip",,1447253093398294530,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+12,1447245619320475651,6,,0,"RT @pythonbytes: It's @pythonbytes #253: A new Python for you, and for everyone! With @brianokken, @mkennedy, and guest Yael Mintz https://…",,1447245619320475651,en,https://buffer.com,Buffer,realpython,realpython
+13,1447230525630996483,10,,27,Python Behind the Scenes: The GIL and Its Effects on Python Multithreading #python https://t.co/E7uzhQDY58,,1447230525630996483,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+14,1447215405597171716,20,,0,"RT @realpython: 🐍📰 Python Virtual Environments: A Primer 
+
+This article details how to use a Python virtual environment to manage your Pyth…",,1447215405597171716,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+15,1447204524679180293,17,,0,RT @PythonWeekly: Python Weekly - Issue 520 https://t.co/b6c3G1InxU #python #django #flask #fastapi #machinelearning #keras #tensorflow #da…,,1447204524679180293,en,https://buffer.com,Buffer,realpython,realpython
+16,1447049260315430918,8,,51,"📺 Do you watch Python tutorials on YouTube?
+
+Check out our YouTube channel to improve your #Python skills—with tuto… https://t.co/RkqvOJ8xZ5",,1447049260315430918,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+17,1447034166890086403,14,,23,slippers: Build Reusable Components in Django Without Writing a Single Line of Python #python https://t.co/LMqHP0Z2ZI,,1447034166890086403,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+18,1447019067685081091,6,,33,"🐍📺 Using Data Classes in Python [Video]
+#python https://t.co/cVTmP8wjDR",,1447019067685081091,en,https://socialbee.io/,SocialBee.io v2,realpython,realpython
+19,1447008986000154624,19,,0,RT @reuvenmlerner: My students are often horrified to find that #Python lacks private attributes — partly because they learned to use priva…,,1447008986000154624,en,https://buffer.com,Buffer,realpython,realpython
