@@ -914,3 +914,983 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.fd25d125.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-403 codes:[353] trace_ids:[null]
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450946/pagestyle24 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+1633981218200	Marionette	INFO	Stopped listening on port 51554
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634042631981	geckodriver	INFO	Listening on 127.0.0.1:56046
+1634042632991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileN504ZE"
+1634042633378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileN504ZE\\search.json.mozlz4", (void 0)))
+1634042635764	Marionette	INFO	Listening on port 56052
+1634042636166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634042836217	geckodriver	INFO	Listening on 127.0.0.1:56572
+1634042837230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileM5zFkf"
+1634042837568	Marionette	INFO	Marionette enabled
+1634042838716	Marionette	INFO	Stopped listening on port 56052
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileM5zFkf\\search.json.mozlz4", (void 0)))
+1634042839970	Marionette	INFO	Listening on port 56580
+1634042840413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.fd25d125.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-403 codes:[353] trace_ids:[null]
+[Child 14836, MediaDecoderStateMachine #1] WARNING: 145e6e3d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14836, MediaDecoderStateMachine #1] WARNING: 145e6e65d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14836, MediaDecoderStateMachine #1] WARNING: 145e5ce3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14836, MediaDecoderStateMachine #1] WARNING: 145e54f8ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14836, MediaDecoderStateMachine #1] WARNING: 145e54f83c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14836, MediaDecoderStateMachine #1] WARNING: 145e5ce6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14836, MediaDecoderStateMachine #1] WARNING: 145e5ce3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://help.twitter.com/etc/clientlibs/dtm/help-twitter/c411b4930511/4121f48d5646/launch-aa3ff817aa50.min.js.twhash.a.f.5921fb87923ecf356aafc4337d1c713b.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634044704037	geckodriver	INFO	Listening on 127.0.0.1:56626
+1634044705060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileE61A4s"
+1634044705425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileE61A4s\\search.json.mozlz4", (void 0)))
+1634044708022	Marionette	INFO	Listening on port 56634
+1634044708237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634044719922	Marionette	INFO	Stopped listening on port 56634
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634044723906	geckodriver	INFO	Listening on 127.0.0.1:56694
+1634044724921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilewkTbUp"
+1634044725282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilewkTbUp\\search.json.mozlz4", (void 0)))
+1634044727804	Marionette	INFO	Listening on port 56700
+1634044728105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.fd25d125.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1634044853070	geckodriver	INFO	Listening on 127.0.0.1:56781
+1634044854083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile8CBldR"
+1634044854412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile8CBldR\\search.json.mozlz4", (void 0)))
+1634044856785	Marionette	INFO	Stopped listening on port 56700
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634044856876	Marionette	INFO	Listening on port 56787
+1634044857265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634045024470	geckodriver	INFO	Listening on 127.0.0.1:58977
+1634045025486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileik4fzA"
+1634045025872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileik4fzA\\search.json.mozlz4", (void 0)))
+1634045028558	Marionette	INFO	Listening on port 58983
+1634045028661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634045031339	Marionette	INFO	Stopped listening on port 56787
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 18296, MediaDecoderStateMachine #1] WARNING: 20cf47c59e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634045856717	Marionette	INFO	Stopped listening on port 58983
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634045867603	geckodriver	INFO	Listening on 127.0.0.1:50989
+1634045868614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileRYDJ1m"
+1634045868983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileRYDJ1m\\search.json.mozlz4", (void 0)))
+1634045871385	Marionette	INFO	Listening on port 50995
+1634045871821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.fd25d125.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1634046078789	Marionette	INFO	Stopped listening on port 50995
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634046097475	geckodriver	INFO	Listening on 127.0.0.1:60045
+1634046098496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile7BiigA"
+1634046098872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile7BiigA\\search.json.mozlz4", (void 0)))
+1634046101155	Marionette	INFO	Listening on port 60052
+1634046101734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634046155159	Marionette	INFO	Stopped listening on port 60052
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634046158391	geckodriver	INFO	Listening on 127.0.0.1:60130
+1634046159413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileF1oRrM"
+1634046159796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileF1oRrM\\search.json.mozlz4", (void 0)))
+1634046162184	Marionette	INFO	Listening on port 60136
+1634046162583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.fd25d125.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1634046605074	geckodriver	INFO	Listening on 127.0.0.1:54371
+1634046606093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilepbgKr2"
+1634046606437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilepbgKr2\\search.json.mozlz4", (void 0)))
+1634046608494	Marionette	INFO	Listening on port 54378
+1634046608777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634046957249	geckodriver	INFO	Listening on 127.0.0.1:62734
+1634046958273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiler2mdRA"
+1634046958607	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofiler2mdRA\\search.json.mozlz4", (void 0)))
+1634046960521	Marionette	INFO	Listening on port 62740
+1634046960948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634047017863	Marionette	INFO	Stopped listening on port 54378
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634047479284	geckodriver	INFO	Listening on 127.0.0.1:60626
+1634047480305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile35h5Wl"
+1634047480647	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile35h5Wl\\search.json.mozlz4", (void 0)))
+1634047482802	Marionette	INFO	Listening on port 60632
+1634047482977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1634047718564	geckodriver	INFO	Listening on 127.0.0.1:59034
+1634047719587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileECLQ0k"
+1634047719955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileECLQ0k\\search.json.mozlz4", (void 0)))
+1634047722079	Marionette	INFO	Listening on port 59040
+1634047722248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634047807543	Marionette	INFO	Stopped listening on port 59040
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634047814554	Marionette	INFO	Stopped listening on port 60632
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634047817727	geckodriver	INFO	Listening on 127.0.0.1:63355
+1634047818749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileCPSatY"
+1634047819099	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileCPSatY\\search.json.mozlz4", (void 0)))
+1634047820994	Marionette	INFO	Listening on port 63361
+1634047821441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634048032125	Marionette	INFO	Stopped listening on port 63361
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634048034602	geckodriver	INFO	Listening on 127.0.0.1:64739
+1634048035623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilewl160L"
+1634048035975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilewl160L\\search.json.mozlz4", (void 0)))
+1634048037921	Marionette	INFO	Listening on port 64745
+1634048038286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+1634048267529	Marionette	INFO	Stopped listening on port 64745
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634048272379	geckodriver	INFO	Listening on 127.0.0.1:55935
+1634048273400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile6dt9ww"
+1634048273731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile6dt9ww\\search.json.mozlz4", (void 0)))
+1634048275849	Marionette	INFO	Listening on port 55941
+1634048276087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+1634048438823	Marionette	INFO	Stopped listening on port 55941
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634048442308	geckodriver	INFO	Listening on 127.0.0.1:53309
+1634048443330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilesDTmtz"
+1634048443669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilesDTmtz\\search.json.mozlz4", (void 0)))
+1634048445631	Marionette	INFO	Listening on port 53315
+1634048446019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634048527720	Marionette	INFO	Stopped listening on port 53315
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634048531834	geckodriver	INFO	Listening on 127.0.0.1:59159
+1634048532849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile3iL5X6"
+1634048533164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile3iL5X6\\search.json.mozlz4", (void 0)))
+1634048535086	Marionette	INFO	Listening on port 59166
+1634048535539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1634048794098	Marionette	INFO	Stopped listening on port 59166
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634048799495	geckodriver	INFO	Listening on 127.0.0.1:64739
+1634048800510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileRgrDis"
+1634048800837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileRgrDis\\search.json.mozlz4", (void 0)))
+1634048802910	Marionette	INFO	Listening on port 64747
+1634048803184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634048812239	geckodriver	INFO	Listening on 127.0.0.1:64791
+1634048813254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileO3MQSe"
+1634048813565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileO3MQSe\\search.json.mozlz4", (void 0)))
+1634048815642	Marionette	INFO	Listening on port 64797
+1634048815927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 932 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 608 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634049219897	Marionette	INFO	Stopped listening on port 64797
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634049224902	geckodriver	INFO	Listening on 127.0.0.1:56463
+1634049225923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileKZ4qVZ"
+1634049226258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileKZ4qVZ\\search.json.mozlz4", (void 0)))
+1634049228326	Marionette	INFO	Listening on port 56470
+1634049228596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634049409241	Marionette	INFO	Stopped listening on port 56470
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634049413736	Marionette	INFO	Stopped listening on port 62740
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634049414785	Marionette	INFO	Stopped listening on port 64747
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634049415601	Marionette	INFO	Stopped listening on port 60136
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634049416268	Marionette	INFO	Stopped listening on port 56580
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1634049419512	geckodriver	INFO	Listening on 127.0.0.1:52324
+1634049420533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile3HgYEM"
+1634049420889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile3HgYEM\\search.json.mozlz4", (void 0)))
+1634049423385	Marionette	INFO	Listening on port 52330
+1634049423693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634049424798	Marionette	INFO	Stopped listening on port 52330
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634049433258	geckodriver	INFO	Listening on 127.0.0.1:52376
+1634049434279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilexWqvoN"
+1634049434633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilexWqvoN\\search.json.mozlz4", (void 0)))
+1634049436909	Marionette	INFO	Listening on port 52382
+1634049436953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634049544375	geckodriver	INFO	Listening on 127.0.0.1:54815
+1634049545383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileNU61No"
+1634049545613	Marionette	INFO	Stopped listening on port 52382
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634049545891	Marionette	INFO	Marionette enabled
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileNU61No\\search.json.mozlz4", (void 0)))
+1634049548005	Marionette	INFO	Listening on port 54821
+1634049548056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: n[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 1023 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27701e072e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 4258 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/13889258966089899700/index.html, line 152: TypeError: a.g is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 6464 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 5996 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/13889258966089899700/index.html, line 152: TypeError: a.g is null
+JavaScript error: https://s0.2mdn.net/sadbundle/13889258966089899700/index.html, line 167: TypeError: this.g is null
+JavaScript error: https://s0.2mdn.net/sadbundle/13889258966089899700/index.html, line 167: TypeError: this.g is null
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27700fab900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 4112 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #2] WARNING: 27702f62e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #2] WARNING: 27702f62e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634050190030	geckodriver	INFO	Listening on 127.0.0.1:56972
+1634050191054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileri47CT"
+1634050191395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileri47CT\\search.json.mozlz4", (void 0)))
+1634050193655	Marionette	INFO	Listening on port 56980
+1634050193726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 7755 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 6400 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 5544 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 2185 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 3131 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634050810134	geckodriver	INFO	Listening on 127.0.0.1:54907
+1634050811142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile7q42C8"
+1634050811455	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile7q42C8\\search.json.mozlz4", (void 0)))
+1634050813628	Marionette	INFO	Listening on port 54913
+1634050813789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634050898145	geckodriver	INFO	Listening on 127.0.0.1:56378
+1634050899164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileeB6JBB"
+1634050899516	Marionette	INFO	Stopped listening on port 54913
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634050899569	Marionette	INFO	Marionette enabled
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634050900899	Marionette	INFO	Stopped listening on port 56980
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileeB6JBB\\search.json.mozlz4", (void 0)))
+1634050902176	Marionette	INFO	Listening on port 56384
+1634050902356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 248 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 2084 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 4310 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 606 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 5528 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 6979 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 2386 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 3090 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634051160026	geckodriver	INFO	Listening on 127.0.0.1:56163
+1634051161044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileTDZPjE"
+1634051161395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileTDZPjE\\search.json.mozlz4", (void 0)))
+1634051163577	Marionette	INFO	Listening on port 56169
+1634051163708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634051167438	Marionette	INFO	Stopped listening on port 56384
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 3905 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 7428 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634051241133	Marionette	INFO	Stopped listening on port 56169
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634051243336	geckodriver	INFO	Listening on 127.0.0.1:58063
+1634051244352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileHTnVEs"
+1634051244681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileHTnVEs\\search.json.mozlz4", (void 0)))
+1634051247098	Marionette	INFO	Listening on port 58069
+1634051247540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 4927 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 664 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 314 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 1232 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 6228 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 7261 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634051393434	geckodriver	INFO	Listening on 127.0.0.1:64599
+1634051394441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileD2Zt8P"
+1634051394750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileD2Zt8P\\search.json.mozlz4", (void 0)))
+1634051396678	Marionette	INFO	Listening on port 64606
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634051397112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 2036 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 497 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 7184 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 6657 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634051487737	geckodriver	INFO	Listening on 127.0.0.1:53127
+1634051488750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilerixkkY"
+1634051489086	Marionette	INFO	Stopped listening on port 64606
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634051489167	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilerixkkY\\search.json.mozlz4", (void 0)))
+1634051491303	Marionette	INFO	Stopped listening on port 58069
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634051491398	Marionette	INFO	Listening on port 53133
+1634051491431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 2930 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 4246 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634051563535	geckodriver	INFO	Listening on 127.0.0.1:53246
+1634051564554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilenX9xm3"
+1634051564889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilenX9xm3\\search.json.mozlz4", (void 0)))
+1634051567162	Marionette	INFO	Listening on port 53253
+1634051567234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634051570451	Marionette	INFO	Stopped listening on port 53253
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634051571560	Marionette	INFO	Stopped listening on port 53133
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634051576111	geckodriver	INFO	Listening on 127.0.0.1:53322
+1634051577134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile4AiKUW"
+1634051577476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile4AiKUW\\search.json.mozlz4", (void 0)))
+1634051579654	Marionette	INFO	Listening on port 53328
+1634051579799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 2270 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 1832 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 4728 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 2396 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 5092 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 6251 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 5339 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634051874446	Marionette	INFO	Stopped listening on port 53328
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634051889136	geckodriver	INFO	Listening on 127.0.0.1:50036
+1634051890157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileXkfE3o"
+1634051890511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileXkfE3o\\search.json.mozlz4", (void 0)))
+1634051892797	Marionette	INFO	Listening on port 50042
+1634051892824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634052099223	geckodriver	INFO	Listening on 127.0.0.1:62155
+1634052100244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileYPZyI9"
+1634052100566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileYPZyI9\\search.json.mozlz4", (void 0)))
+1634052102497	Marionette	INFO	Listening on port 62161
+1634052102911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19580, MediaDecoderStateMachine #1] WARNING: 2208ba793c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634052251539	geckodriver	INFO	Listening on 127.0.0.1:60641
+1634052252546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilev426eT"
+1634052252857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilev426eT\\search.json.mozlz4", (void 0)))
+1634052255106	Marionette	INFO	Listening on port 60647
+1634052257228	Marionette	INFO	Stopped listening on port 60647
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634052257864	Marionette	INFO	Stopped listening on port 62161
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 12756, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1634052258798	Marionette	INFO	Stopped listening on port 50042
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634052263097	geckodriver	INFO	Listening on 127.0.0.1:60691
+1634052264105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilezKynKO"
+1634052264465	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilezKynKO\\search.json.mozlz4", (void 0)))
+1634052266827	Marionette	INFO	Listening on port 60697
+1634052269151	Marionette	INFO	Stopped listening on port 60697
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634052278793	geckodriver	INFO	Listening on 127.0.0.1:60741
+1634052279800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilem8YWC7"
+1634052280124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilem8YWC7\\search.json.mozlz4", (void 0)))
+1634052282368	Marionette	INFO	Listening on port 60747
+1634052282473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634052410779	Marionette	INFO	Stopped listening on port 60747
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #3] WARNING: 2770499a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634052494885	geckodriver	INFO	Listening on 127.0.0.1:49608
+1634052495896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilePeBI4L"
+1634052496239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilePeBI4L\\search.json.mozlz4", (void 0)))
+1634052498995	Marionette	INFO	Listening on port 49614
+1634052499108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7444, MediaDecoderStateMachine #3] WARNING: 27702f62120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #3] WARNING: 27705873820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #3] WARNING: 2770610b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 7610 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27773b6fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27773b6fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 2770499a4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27700034660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27701a9e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27705c424a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27700a36200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 2770503d740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27705c42740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: n[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 3421 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 308 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 1329 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 4236 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27705873ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 2777f40eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277062e42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277062e42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27701a99200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27703e832e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27703e83ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 1103 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277014db900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277010fe4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27705c42580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277062e4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277061ad660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27706254900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27706254900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277772a0ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 2770619c740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277016a4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277016a4040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 2770587c660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27704751ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277052ae120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277010fe740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27705338120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277089c32e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27701b77ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27703e83f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 277043a79e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27704bed040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27701a1fac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 2770619cba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 21608, MediaDecoderStateMachine #1] WARNING: 1e5ae9c9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27705e809e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27700a369e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27704a052e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27704ca1740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27706e49820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27704022900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27704e50900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27705aa93c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7444, MediaDecoderStateMachine #1] WARNING: 27702fc3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 21608, MediaDecoderStateMachine #1] WARNING: 1e5ad1b1ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.js7k.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.softwaretestinghelp.com/wp-content/plugins/mtouch-quiz/script.js?ver=3.1.3, line 1: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/thetradedeskvideo910663478306/moatvideo.js#_moatApi79442539, line 261: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 21608, MediaDecoderStateMachine #1] WARNING: 1e5b6fa7580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 1399 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.softwaretestinghelp.com/wp-content/plugins/mtouch-quiz/script.js?ver=3.1.3, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 5481 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 3960 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 7271 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 6233 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 5111 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 3708 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-4c7cb60b6faf65dc6386daee67fb738f.js, line 6985: unreachable code after return statement
+[Child 21608, MediaDecoderStateMachine #1] WARNING: 1e5b080b580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634053587452	geckodriver	INFO	Listening on 127.0.0.1:50522
+1634053588473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilerWhSiW"
+1634053588851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilerWhSiW\\search.json.mozlz4", (void 0)))
+1634053591011	Marionette	INFO	Listening on port 50528
+1634053591124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634053702551	Marionette	INFO	Stopped listening on port 49614
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634053814726	Marionette	INFO	Stopped listening on port 50528
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634053900085	geckodriver	INFO	Listening on 127.0.0.1:53745
+1634053901093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileziD9T4"
+1634053901417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileziD9T4\\search.json.mozlz4", (void 0)))
+1634053903847	Marionette	INFO	Listening on port 53751
+1634053904261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://help.twitter.com/etc/clientlibs/dtm/help-twitter/c411b4930511/4121f48d5646/launch-aa3ff817aa50.min.js.twhash.a.f.5921fb87923ecf356aafc4337d1c713b.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634054154667	geckodriver	INFO	Listening on 127.0.0.1:63204
+1634054155680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileYFPzV2"
+1634054155992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileYFPzV2\\search.json.mozlz4", (void 0)))
+1634054158039	Marionette	INFO	Listening on port 63210
+1634054158355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 3476 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 17048, MediaDecoderStateMachine #1] WARNING: 2291b325660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17048, MediaDecoderStateMachine #1] WARNING: 22924cd49e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17048, MediaDecoderStateMachine #1] WARNING: 2291a862820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17048, MediaDecoderStateMachine #1] WARNING: 22922782ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17048, MediaDecoderStateMachine #1] WARNING: 22922782ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17048, MediaDecoderStateMachine #1] WARNING: 229221f3040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17048, MediaDecoderStateMachine #1] WARNING: 22926cba9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17048, MediaDecoderStateMachine #1] WARNING: 229176f9660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17048, MediaDecoderStateMachine #1] WARNING: 229176f9660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634055590677	Marionette	INFO	Stopped listening on port 63210
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634055591367	Marionette	INFO	Stopped listening on port 53751
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634055592298	Marionette	INFO	Stopped listening on port 54821
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634055597052	geckodriver	INFO	Listening on 127.0.0.1:57107
+1634055598062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile0kU02O"
+1634055598452	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofile0kU02O\\search.json.mozlz4", (void 0)))
+1634055601046	Marionette	INFO	Listening on port 57113
+1634055601241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634056167767	Marionette	INFO	Stopped listening on port 57113
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 18064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634056234938	geckodriver	INFO	Listening on 127.0.0.1:64323
+1634056235953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilecgcv8M"
+1634056236295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilecgcv8M\\search.json.mozlz4", (void 0)))
+1634056238671	Marionette	INFO	Listening on port 64329
+1634056239122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634056305179	Marionette	INFO	Stopped listening on port 64329
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
