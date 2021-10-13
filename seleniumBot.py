@@ -112,6 +112,40 @@ def followVisible():
             time.sleep(2)
         else:
             run = True
+
+
+def likeVisible():
+    run = True
+    while run:
+        count = 0
+        time.sleep(2)
+        arr = getLikeButtons()
+        print(arr)
+        print(f'There are {len(arr)} left to Like on this page')
+        for i,el in enumerate(arr):
+            try:
+                print(f'Click {i}')
+                el.click()
+                count += 1
+                time.sleep(1)
+            except ElementClickInterceptedException as e:
+                print(e)
+                print('Overload! Sleeping for 15 minutes...')
+                time.sleep(900)
+                driver.refresh()
+                time.sleep(3)
+                break
+            except Exception as e:
+                print(e)
+                break
+        if len(arr) > 30:
+            run = False
+        elif len(arr) == 0:
+            print('Scrolling...')
+            scrollPage()
+            time.sleep(2)
+        else:
+            run = True
      
         
 
@@ -120,7 +154,16 @@ def scrollPage():
     time.sleep(3)
 
 
-def navTopFollowersPage(search_term):
+def navToMainPage(search_term):
+    driver.get("https://twitter.com/search?q=" + search_term + "&src=typed_query")
+    time.sleep(5)
+
+    cookiesCloseBtn = driver.find_element_by_xpath('/html/body/div/div/div/div[1]/div/div[2]/div/div/div/div[2]/div/span/span')
+    cookiesCloseBtn.click()
+    time.sleep(2)
+
+
+def navToFollowersPage(search_term):
     driver.get("https://twitter.com/search?q=" + search_term + "&src=typed_query")
     time.sleep(5)
 
@@ -136,9 +179,15 @@ def navTopFollowersPage(search_term):
     cookiesCloseBtn.click()
     time.sleep(2)
 
+
 def getFollowButtons():
     followButtons = driver.find_elements_by_xpath("//span[text()='Follow']")
     return followButtons
+
+
+def getLikeButtons():
+    likeButtons = driver.find_elements_by_xpath("//div[@data-testid = 'like']")
+    return likeButtons
 
    
 
@@ -152,12 +201,18 @@ try:
 finally:
     pass
 
-navTopFollowersPage('rarible')
-
+navToMainPage('rarible')
 for i in range(0, 8):
     print(f'Starting session {i+1} of 8')
-    followVisible()
+    likeVisible()
     scrollPage()
+    
+
+# navToFollowersPage('rarible')
+# for i in range(0, 8):
+#     print(f'Starting session {i+1} of 8')
+#     followVisible()
+#     scrollPage()
     
 
 
