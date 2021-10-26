@@ -100,23 +100,29 @@ def followVisible():
         count = 0
         time.sleep(2)
         arr = getFollowButtons()
-        print(f'There are {len(arr)} left to follow on this page')
-        for i,el in enumerate(arr):
-            try:
-                print(f'Click {i}')
-                el.click()
-                count += 1
-                time.sleep(1)
-            except ElementClickInterceptedException as e:
-                print(e)
-                print('Overload! Sleeping for 5 minutes...')
-                time.sleep(300)
-                driver.refresh()
-                time.sleep(3)
-                break
-            except Exception as e:
-                print(e)
-                break
+        
+        if len(arr) < 4:
+            print(f'There are only {len(arr)} on the page')
+            print('Scrolling...')
+            scrollPage()
+        else:
+            print(f'There are {len(arr)} left to follow on this page')
+            for i,el in enumerate(arr):
+                try:
+                    el.click()
+                    print(f'Click {i}')
+                    count += 1
+                    time.sleep(1)
+                except ElementClickInterceptedException as e:
+                    print(e)
+                    print('Overload! Sleeping for 15 minutes...')
+                    time.sleep(900)
+                    driver.refresh()
+                    time.sleep(3)
+                    break
+                except Exception as e:
+                    print(e)
+                    break
         print('Scrolling...')
         if len(arr) > 30:
             run = False
@@ -222,7 +228,7 @@ finally:
 #     scrollPage()
     
 
-navToFollowersPage('rarible')
+navToFollowersPage('SolanaBananas')
 for i in range(0, 8):
     print(f'Starting session {i+1} of 8')
     followVisible()
