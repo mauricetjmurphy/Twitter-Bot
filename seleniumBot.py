@@ -21,6 +21,7 @@ driver.maximize_window()
 
 user = os.environ.get("TWITTER_USERNAME")
 password = os.environ.get("TWITTER_PASSWORD")
+phone = os.environ.get("TWITTER_PHONE")
 
 
 def login():
@@ -34,17 +35,29 @@ def login():
     time.sleep(1)
     button1 = driver.find_element_by_xpath('/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div')
     button1.click()
+
+    try:
+        time.sleep(1)
+        inputElement2 = driver.find_element_by_xpath("/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[2]/label/div/div[2]/div/input")
+        time.sleep(1)
+        inputElement2.send_keys(phone)
+        time.sleep(1)
+        button2 = driver.find_element_by_xpath('/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div')
+        button2.click()
+        time.sleep(1)
+    except:
+        pass
+
     time.sleep(1)
-    inputElement2 = driver.find_element_by_xpath("/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[2]/div/label/div/div[2]/div/input")
+    inputElement3 = driver.find_element_by_xpath("/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[3]/div/label/div/div[2]/div/input")
     time.sleep(1)
-    inputElement2.send_keys(password)
+    inputElement3.send_keys(password)
     time.sleep(1)
-    button2 = driver.find_element_by_xpath('/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div')
-    button2.click()
+    button3 = driver.find_element_by_xpath('/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div')
+    button3.click()
     time.sleep(5)
 
     
-
 def stats():
     following = "0"
     followers = "0"
@@ -96,14 +109,15 @@ def followVisible():
                 time.sleep(1)
             except ElementClickInterceptedException as e:
                 print(e)
-                print('Overload! Sleeping for 15 minutes...')
-                time.sleep(900)
+                print('Overload! Sleeping for 5 minutes...')
+                time.sleep(300)
                 driver.refresh()
                 time.sleep(3)
                 break
             except Exception as e:
                 print(e)
                 break
+        print('Scrolling...')
         if len(arr) > 30:
             run = False
         elif len(arr) == 0:
@@ -201,18 +215,18 @@ try:
 finally:
     pass
 
-navToMainPage('rarible')
-for i in range(0, 8):
-    print(f'Starting session {i+1} of 8')
-    likeVisible()
-    scrollPage()
-    
-
-# navToFollowersPage('rarible')
+# navToMainPage('rarible')
 # for i in range(0, 8):
 #     print(f'Starting session {i+1} of 8')
-#     followVisible()
+#     likeVisible()
 #     scrollPage()
+    
+
+navToFollowersPage('rarible')
+for i in range(0, 8):
+    print(f'Starting session {i+1} of 8')
+    followVisible()
+    scrollPage()
     
 
 
