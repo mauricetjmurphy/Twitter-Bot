@@ -2292,3 +2292,134 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1635236384009	Marionette	INFO	Listening on port 50984
 1635236384052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [Child 9360, MediaDecoderStateMachine #1] WARNING: 17f908e5d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1635236639285	Marionette	INFO	Stopped listening on port 50984
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.d1917655.js, line 1: Error: ApiError: https://api.twitter.com/1.1/help/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635368708608	geckodriver	INFO	Listening on 127.0.0.1:63648
+1635368709615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileYfGmxg"
+1635368709942	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileYfGmxg\\search.json.mozlz4", (void 0)))
+1635368712308	Marionette	INFO	Listening on port 63655
+1635368712806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1635368964725	Marionette	INFO	Stopped listening on port 63655
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635368967392	geckodriver	INFO	Listening on 127.0.0.1:63903
+1635368968401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileEG0TuQ"
+1635368968727	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileEG0TuQ\\search.json.mozlz4", (void 0)))
+1635368970961	Marionette	INFO	Listening on port 63910
+1635368971054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f1afad05.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-403 codes:[353] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f1afad05.js, line 1: Error: ApiError: https://api.twitter.com/1.1/help/settings.json HTTP-403 codes:[353] trace_ids:[null]
+[Child 23500, MediaDecoderStateMachine #1] WARNING: 1368d8c0660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1635369091790	geckodriver	INFO	Listening on 127.0.0.1:64096
+1635369092803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileZvEFwx"
+1635369093123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofileZvEFwx\\search.json.mozlz4", (void 0)))
+1635369095403	Marionette	INFO	Listening on port 64103
+1635369095484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635369097409	Marionette	INFO	Stopped listening on port 63910
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Child 16004, MediaDecoderStateMachine #1] WARNING: 250bae64f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1635369260815	geckodriver	INFO	Listening on 127.0.0.1:64292
+1635369261824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilerEITx6"
+1635369262176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilerEITx6\\search.json.mozlz4", (void 0)))
+1635369264025	Marionette	INFO	Stopped listening on port 64103
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635369264630	Marionette	INFO	Listening on port 64300
+1635369265015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f1afad05.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-403 codes:[353] trace_ids:[null]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635370440454	Marionette	INFO	Stopped listening on port 64300
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635370448811	geckodriver	INFO	Listening on 127.0.0.1:55430
+1635370449821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilefh6wu6"
+1635370450155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mossi\\AppData\\Local\\Temp\\rust_mozprofilefh6wu6\\search.json.mozlz4", (void 0)))
+1635370452410	Marionette	INFO	Listening on port 55436
+1635370452501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 14672, MediaDecoderStateMachine #1] WARNING: 11798fd4740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f1afad05.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+1635370678261	Marionette	INFO	Stopped listening on port 55436
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1636804008478	geckodriver	INFO	Listening on 127.0.0.1:38733
+1636804080526	geckodriver	INFO	Listening on 127.0.0.1:41129
+1636804177451	geckodriver	INFO	Listening on 127.0.0.1:56465
+1636804827614	geckodriver	INFO	Listening on 127.0.0.1:43767
+1636812022125	geckodriver	INFO	Listening on 127.0.0.1:33363
+1636812229290	geckodriver	INFO	Listening on 127.0.0.1:48475
+1636813475633	geckodriver	INFO	Listening on 127.0.0.1:57963
+1636820002252	geckodriver	INFO	Listening on 127.0.0.1:38633
+1636822671994	geckodriver	INFO	Listening on 127.0.0.1:56649
+1636822806081	geckodriver	INFO	Listening on 127.0.0.1:54047
+1636822889121	geckodriver	INFO	Listening on 127.0.0.1:34117
+1636823079275	geckodriver	INFO	Listening on 127.0.0.1:37319
+1636823144471	geckodriver	INFO	Listening on 127.0.0.1:47877
+1636823643610	geckodriver	INFO	Listening on 127.0.0.1:47687
+1636826374262	geckodriver	INFO	Listening on 127.0.0.1:53871
+1636827074814	geckodriver	INFO	Listening on 127.0.0.1:40965
+1636914303306	geckodriver	INFO	Listening on 127.0.0.1:35127
+1637356624853	geckodriver	INFO	Listening on 127.0.0.1:53577
+1637356730333	geckodriver	INFO	Listening on 127.0.0.1:44519
+1637356876129	geckodriver	INFO	Listening on 127.0.0.1:57201
+1637356942158	geckodriver	INFO	Listening on 127.0.0.1:56955

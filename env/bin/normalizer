@@ -1,4 +1,4 @@
-#!/mnt/c/Users/mossi/Documents/Personal_Projects/211010_Twitter_Bot/env/bin/python3
+#!/home/mauricetjmurphy/Documents/Projects/211010_Twitter_Bot/env/bin/python3.8
 # -*- coding: utf-8 -*-
 import re
 import sys

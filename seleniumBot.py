@@ -1,4 +1,8 @@
 from selenium import webdriver
+# from webdriver_manager.firefox import GeckoDriverManager
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+from selenium.webdriver.firefox.service import Service
 from selenium.common.exceptions import ElementClickInterceptedException
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait # available since 2.4.0
@@ -15,7 +19,20 @@ env_path = Path('.')/'.env'
 load_dotenv(dotenv_path=env_path)
 
 
-driver = webdriver.Firefox(executable_path=r'env/bin/geckodriver.exe')
+s = Service(r"/home/mauricetjmurphy/Documents/Projects/211010_Twitter_Bot/env/bin/geckodriver.exe")
+driver = webdriver.Firefox(service=s)
+# os.environ['PATH'] += "env/bin/chromedriver.exe"
+# ser = Service("/usr/local/bin/chromedriver.exe")
+# op = webdriver.ChromeOptions()
+# driver = webdriver.Chrome(service=ser, options=op)
+# driver = webdriver.Firefox(executable_path=r"/home/mauricetjmurphy/Documents/Projects/211010_Twitter_Bot/env/bin/geckodriver.exe")
+
+# chrome_options = Options()
+# chrome_options.add_argument("--headless")
+# chrome_options.add_argument("--window-size=1920x1080")
+# driver = webdriver.Chrome(service=ser,chrome_options=chrome_options)
+
+
 driver.maximize_window()
 
 
@@ -116,7 +133,7 @@ def followVisible():
                 except ElementClickInterceptedException as e:
                     print(e)
                     print('Overload! Sleeping for 15 minutes...')
-                    time.sleep(900)
+                    time.sleep(10)
                     driver.refresh()
                     time.sleep(3)
                     break
@@ -151,7 +168,7 @@ def likeVisible():
             except ElementClickInterceptedException as e:
                 print(e)
                 print('Overload! Sleeping for 15 minutes...')
-                time.sleep(900)
+                time.sleep(5)
                 driver.refresh()
                 time.sleep(3)
                 break
@@ -186,6 +203,10 @@ def navToMainPage(search_term):
 def navToFollowersPage(search_term):
     driver.get("https://twitter.com/search?q=" + search_term + "&src=typed_query")
     time.sleep(5)
+
+    peopleLink = driver.find_element_by_xpath('/html/body/div/div/div/div[2]/main/div/div/div/div[1]/div/div[1]/div[2]/nav/div/div[2]/div/div[3]/a/div')
+    peopleLink.click()
+    time.sleep(3)
 
     pageLink = driver.find_element_by_xpath('/html/body/div/div/div/div[2]/main/div/div/div/div[1]/div/div[2]/div/div/section/div/div/div[3]/div/div/div/div[2]/div[1]/div[1]/a/div/div[1]/div[1]/span/span')
     pageLink.click()
